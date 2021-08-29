@@ -3,7 +3,7 @@
 
 Corolla<-Corolla[c("Price","Age_08_04","KM","HP","cc","Doors","Gears","Quarterly_Tax","Weight")]
 
-2)repare a prediction model for profit of 50_startups data.
+2) Prepare a prediction model for profit of 50_startups data.
 Do transformations for getting better predictions of profit and
 make a table containing R^2 value for each prepared model.
 
